@@ -1,4 +1,4 @@
-package com.spring.aop.demo.deux.pojo;
+package com.spring.aop.demo.pojo;
 
 import org.springframework.stereotype.Component;
 
